@@ -1,9 +1,5 @@
 ﻿using Entity.DTO;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Entity.Model.Security;
 
 namespace Bussines.Interfaces
 {
@@ -13,7 +9,7 @@ namespace Bussines.Interfaces
         public Task<IEnumerable<ModuleDto>> GetAll();
         public Task<IEnumerable<DataSelectDto>> GetAllSelect();
         public Task<ModuleDto> GetById(int id);
-        public Task<ModuleDto> Save(ModuleDto entity);
+        public Task<Module> Save(ModuleDto entity);
         public Task Update(ModuleDto entity);
     }
 }

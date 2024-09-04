@@ -78,6 +78,7 @@ namespace Entity.Context
         public DbSet<View> Views => Set<View>();
         public DbSet<Module> Modules => Set<Module>();
 
+
         public readonly struct DapperEFCoreCommand : IDisposable
         {
             public DapperEFCoreCommand(DbContext context, string text, object parameters, int? timeout, CommandType? type, CancellationToken ct)

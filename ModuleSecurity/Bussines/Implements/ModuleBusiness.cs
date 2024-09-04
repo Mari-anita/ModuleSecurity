@@ -80,10 +80,5 @@ namespace Bussines.Implements
             module = this.mapData(module, entity);
             await this.data.Update(module);
         }
-
-        Task<ModuleDto> IModuleBusiness.Save(ModuleDto entity)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

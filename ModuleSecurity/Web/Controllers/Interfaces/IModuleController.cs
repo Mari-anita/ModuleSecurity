@@ -1,21 +1,18 @@
 ﻿using Entity.DTO;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Web.Controllers.Interfaces
 
 {
     public interface IModuleController
     {
-        public Task Delete(int id);
-        public Task<IEnumerable<ModuleDto>> GetAll();
-        public Task<IEnumerable<DataSelectDto>> GetAllSelect();
-        public Task<ModuleDto> GetById(int id);
-        public Task<ModuleDto> Save(ModuleDto entity);
-        public Task Update(ModuleDto entity);
+        public Task<ActionResult<IEnumerable<ModuleDto>>> GetAll();
+
+        public Task<ActionResult<ModuleDto>> Save([FromBody] ModuleDto moduleDto);
+
+        public Task<IActionResult> Update([FromBody] ModuleDto moduleDto);
+
+        public Task<IActionResult> Delete(int id);
     }
 
 }

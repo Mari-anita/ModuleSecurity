@@ -84,10 +84,5 @@ namespace Bussines.Implements
         {
             throw new NotImplementedException();
         }
-
-        Task<RoleViewDto> IRoleViewBusiness.Save(RoleViewDto entity)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

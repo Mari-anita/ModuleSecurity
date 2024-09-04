@@ -84,15 +84,5 @@ namespace Bussines.Implements
             userrole = this.mapData(userrole, entity);
             await this.data.Update(userrole);
         }
-
-        public Task Update(UserRole entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        Task<UserRole> IUserRoleBusiness.GetById(int id)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

@@ -3,14 +3,11 @@
     "",
     "\\Bussines",
     "\\Bussines\\Interfaces",
-    "\\Data\\Interfaces",
-    "\\Entity\\Model",
-    "\\Entity\\Model\\Security",
     "\\Web",
     "\\Web\\Controllers",
     "\\Web\\Controllers\\Implements",
     "\\Web\\Controllers\\Interfaces"
   ],
-  "SelectedNode": "\\Web\\Controllers\\Implements\\ModuleController.cs",
+  "SelectedNode": "\\ModuleSecurity.sln",
   "PreviewInSolutionExplorer": false
 }
