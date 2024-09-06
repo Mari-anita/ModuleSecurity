@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\Bussines",
-    "\\Bussines\\Interfaces",
-    "\\Web",
-    "\\Web\\Controllers",
-    "\\Web\\Controllers\\Implements",
-    "\\Web\\Controllers\\Interfaces"
+    "\\Bussines\\Implements",
+    "\\Data",
+    "\\Data\\Implements",
+    "\\Data\\Interfaces",
+    "\\Diagram",
+    "\\Entity",
+    "\\Entity\\DTO",
+    "\\Entity\\Migrations"
   ],
-  "SelectedNode": "\\ModuleSecurity.sln",
   "PreviewInSolutionExplorer": false
 }

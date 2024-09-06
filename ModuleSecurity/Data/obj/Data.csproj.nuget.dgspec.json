@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\source\\repos\\ModuleSecurity\\Data\\Data.csproj": {}
+    "C:\\Users\\MARIANA\\Downloads\\ModuleSecurity\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\source\\repos\\ModuleSecurity\\Data\\Data.csproj": {
+    "C:\\Users\\MARIANA\\Downloads\\ModuleSecurity\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\source\\repos\\ModuleSecurity\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\MARIANA\\Downloads\\ModuleSecurity\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\SENA\\source\\repos\\ModuleSecurity\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\source\\repos\\ModuleSecurity\\Data\\obj\\",
+        "projectPath": "C:\\Users\\MARIANA\\Downloads\\ModuleSecurity\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\MARIANA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MARIANA\\Downloads\\ModuleSecurity\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MARIANA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SENA\\source\\repos\\ModuleSecurity\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\SENA\\source\\repos\\ModuleSecurity\\Entity\\Entity.csproj"
+              "C:\\Users\\MARIANA\\Downloads\\ModuleSecurity\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\MARIANA\\Downloads\\ModuleSecurity\\Entity\\Entity.csproj"
               }
             }
           }
@@ -65,21 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\SENA\\source\\repos\\ModuleSecurity\\Entity\\Entity.csproj": {
+    "C:\\Users\\MARIANA\\Downloads\\ModuleSecurity\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\source\\repos\\ModuleSecurity\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\MARIANA\\Downloads\\ModuleSecurity\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\SENA\\source\\repos\\ModuleSecurity\\Entity\\Entity.csproj",
-        "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\source\\repos\\ModuleSecurity\\Entity\\obj\\",
+        "projectPath": "C:\\Users\\MARIANA\\Downloads\\ModuleSecurity\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\MARIANA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MARIANA\\Downloads\\ModuleSecurity\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MARIANA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,7 +86,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -156,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
