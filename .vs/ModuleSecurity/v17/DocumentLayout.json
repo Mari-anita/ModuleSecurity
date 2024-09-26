@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MARIANA\\OneDrive\\Documentos\\ModuleSecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65EF3BA3-5925-4389-8502-3A7DECF93DB7}|Entity\\Entity.csproj|c:\\users\\mariana\\onedrive\\documentos\\modulesecurity\\entity\\migrations\\20240926044247_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EF3BA3-5925-4389-8502-3A7DECF93DB7}|Entity\\Entity.csproj|solutionrelative:entity\\migrations\\20240926044247_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240926044247_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\MARIANA\\OneDrive\\Documentos\\ModuleSecurity\\Entity\\Migrations\\20240926044247_Inicial.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240926044247_Inicial.cs",
+              "ToolTip": "C:\\Users\\MARIANA\\OneDrive\\Documentos\\ModuleSecurity\\Entity\\Migrations\\20240926044247_Inicial.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240926044247_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:42:49.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
